@@ -1,1 +1,1 @@
-Este es el nuevo archivo de prueba5.txt
+Este es el nuevo archivo prueba5
